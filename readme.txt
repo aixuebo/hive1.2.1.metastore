@@ -1,0 +1,1 @@
+针对hive的1.2.1的metastore项目的java目录进行git管理
